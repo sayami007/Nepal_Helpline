@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nepal Helpline</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="zones">Zones</string>
+    <string name="slogan">Your Emergency Partner</string>
+</resources>
